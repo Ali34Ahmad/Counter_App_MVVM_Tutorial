@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Counter App MVVM</string>
+    <string name="increment_count">Increment count</string>
+</resources>
